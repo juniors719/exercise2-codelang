@@ -38,6 +38,10 @@ body{
     border-radius: 10px;
 }
 
+.inpForm:hover{
+    border-color: rgb(50, 50, 50);
+}
+
 .buttonForm{
     width: 260px;
     font-size: 25px;
